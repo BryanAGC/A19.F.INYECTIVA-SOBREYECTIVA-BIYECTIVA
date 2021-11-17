@@ -19,7 +19,7 @@ hx=(x.^2);
 plot(x,hx);
 grid on;
 %Titulo
-title(['FUNCION:INYECTIVA: hx=(x.^2)']);
+title(['FUNCION:BIYECTIVA: hx=(x.^2)']);
 % EXPLICACION:
 disp('FUNCION Biyectiva');
 disp('EXPLICACION');
