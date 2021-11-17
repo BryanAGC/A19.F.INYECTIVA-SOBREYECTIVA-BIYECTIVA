@@ -22,7 +22,7 @@ fx=((x.^4)(+1)./(x.^3));
 plot(x,fx);
 grid on;
 %Titulo
-title(['FUNCION:fx=((x.^4)(+1)./( x.^3))']);
+title(['FUNCION:INYECTIVA: fx=((x.^4)(+1)./( x.^3))']);
 % EXPLICACION:
 disp('FUNCION INYECTIVA');
 disp('EXPLICACION');
