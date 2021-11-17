@@ -24,7 +24,7 @@ grid on;
 plot([-35 1],[0 0],'k+-',"linewidth",1,"markersize",3);
 plot([0 0],[-1.5 1],'k-',"linewidth",1);
 %Titulo
-title(['FUNCION:??: F(x)=x^3']);
+title(['FUNCION:INYECTIVA: F(x)=x^3']);
 % EXPLICACION:
 disp('FUNCION: INYECTIVA');
 disp('EXPLICACION');
