@@ -21,7 +21,7 @@ grid on;
 plot([-30 30],[0 0],'k+-',"linewidth",2,"markersize",8);
 plot([0 0],[-4000 8500],'k-',"linewidth",2);
 %Titulo
-title(['FUNCION:SOBREYECTIVA: F(x)=x^3']);
+title(['FUNCION:BIYECTIVA: F(x)=x^3']);
 % EXPLICACION:
 disp('FUNCION BIYECTIVA');
 disp('EXPLICACION');
